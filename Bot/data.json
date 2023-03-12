@@ -1,0 +1,9 @@
+{
+    "botname": "lilgupps",
+    "avatar": "http://www.anthonyaldrich.com/images/bot.png",
+    "room": "mafiaee",
+    "token": "oauth:564tuqwl7tc8xr4crco6gmlkfi43tg",
+    "moderation": 1,
+    "devmode": 1,
+    "command": "!@"
+}
